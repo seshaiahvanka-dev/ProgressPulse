@@ -1,0 +1,68 @@
+[
+    {
+        "ticket_id": 1,
+        "event_name": "Sports",
+        "event_date": "09-10-2027",
+        "venue": "BZA",
+        "buyer_name": "Ram",
+        "buyer_email": "ram@gmail.com",
+        "buyer_phone": "9988776655",
+        "seat_number": "A78",
+        "price": "564830"
+    },
+    {
+        "ticket_id": 2,
+        "event_name": "k",
+        "event_date": "09-10-2027",
+        "venue": "BZA",
+        "buyer_name": "Ram",
+        "buyer_email": "ram@gmail.com",
+        "buyer_phone": "9988776655",
+        "seat_number": "A78",
+        "price": "564830"
+    },
+    {
+        "ticket_id": 3,
+        "event_name": "k",
+        "event_date": "09-10-2027",
+        "venue": "BZA",
+        "buyer_name": "Ram",
+        "buyer_email": "ram@gmail.com",
+        "buyer_phone": "9988776655",
+        "seat_number": "A78",
+        "price": "564830"
+    },
+    {
+        "ticket_id": 4,
+        "event_name": "Sports",
+        "event_date": "09-10-2027",
+        "venue": "BZA",
+        "buyer_name": "Ram",
+        "buyer_email": "ram@gmail.com",
+        "buyer_phone": "9988776655",
+        "seat_number": "A78",
+        "price": "564830"
+    },
+    {
+        "ticket_id": 5,
+        "event_name": "Movie",
+        "event_date": "10-06-2027",
+        "venue": "Chennai",
+        "buyer_name": "Seshu",
+        "buyer_email": "seshu1234@gmail.com",
+        "buyer_phone": "9492309624",
+        "seat_number": "A12",
+        "price": "20000"
+    },
+    {
+        "ticket_id": 6,
+        "event_name": "Sport",
+        "event_date": "09-09-2029",
+        "venue": "TN",
+        "buyer_name": "Ragu",
+        "buyer_email": "Enter a Valid email",
+        "buyer_phone": "Enter a Valid Phone",
+        "seat_number": "A25",
+        "price": "20000"
+    }
+]
