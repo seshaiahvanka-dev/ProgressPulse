@@ -1,0 +1,22 @@
+[
+    {
+        "patient_id": 1,
+        "name": "hgf",
+        "email": "hbf",
+        "phone": "jhbf",
+        "age": "jhbf",
+        "gender": "hbg",
+        "diagnosis": "kjnbfk",
+        "admission_date": "kbfjf"
+    },
+    {
+        "patient_id": 2,
+        "name": "khbf",
+        "email": "khbf",
+        "phone": "khbf",
+        "age": "kjnf",
+        "gender": "khbf",
+        "diagnosis": "khbf",
+        "admission_date": "hbf"
+    }
+]
